@@ -1,0 +1,28 @@
+.Poster {
+          text-align: center;
+      }
+      
+      .Poster img {
+          width: 50%; /* or any other value you consider "medium" */
+          display: block;
+          margin: 0 auto; /* this centers the image */
+          border: 5px solid black
+      }
+      
+      .Poster h2 {
+          text-align: center; /* center-aligning the heading */
+      }
+      
+      .Poster p {
+          text-align: center; /* center-aligning the paragraph */
+      }
+
+      h1{
+          background-color: blueviolet;
+          text-align: center;
+          color: aliceblue;
+      }
+
+      body {
+        background-color: rgb(255, 153, 127);
+      }
